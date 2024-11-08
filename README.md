@@ -12,4 +12,4 @@ This Python app provides a GUI for loading, playing, stopping, and categorizing 
 1. Clone the repository:
    ```bash
    git clone https://github.com/robert2544/audio-categorizer.git
-   cd YOUR_REPOSITORY_NAME
+   cd audio-categorizer
